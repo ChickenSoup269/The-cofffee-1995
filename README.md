@@ -1,4 +1,4 @@
-## Link deloy:
+## Link deploy:
 ```bash
 https://chickensoup269.github.io/The-cofffee-1995/
 ```
